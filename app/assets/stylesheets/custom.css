@@ -74,3 +74,13 @@ body:before {
   bottom: 0;
   background-color: rgba(255, 255, 255, .92)
 }
+
+#home .slogan-line{  
+  text-shadow: 1px 1px 3px black;
+  letter-spacing: 2px;
+}
+
+#home .title{
+  letter-spacing: 9px;
+  text-shadow: 2px 2px 2px black;
+}

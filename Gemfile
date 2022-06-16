@@ -75,3 +75,6 @@ end
 
 # Gem for hiding ids in url bar
 gem "friendly_id", "~> 5.4.0"
+
+# Gem for authentication
+gem "devise"

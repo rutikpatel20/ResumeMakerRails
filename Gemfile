@@ -78,3 +78,4 @@ gem "friendly_id", "~> 5.4.0"
 
 # Gem for authentication
 gem "devise"
+gem "pry", "~> 0.14.1"
